@@ -1,7 +1,6 @@
 <?php
 if($_SERVER['REQUEST_METHOD']=='POST')
 {
-
 	$pas="e10adc3949ba59abbe56e057f20f883e";
 	$user=$_POST['user'];
 	$password=md5($_POST['password']);
