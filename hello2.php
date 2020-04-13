@@ -6,7 +6,6 @@ unset ($message);
 $message="\n Second world";
 echo "$message";	
 
-
 $a = 5;
 $b = 7;
 $amt = $a%$b;
