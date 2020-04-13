@@ -1,6 +1,6 @@
 /*Program to add two numbers*/ 
 <html>
-<head><title>Addition php</title>
+<head><title>Addition PHP</title>
 <body>
 <?php 
 	#operator
