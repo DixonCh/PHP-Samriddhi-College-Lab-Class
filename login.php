@@ -14,7 +14,6 @@ if($_SERVER['REQUEST_METHOD']=='POST')
 	{
 		echo "User or password doesn't match please try again";
 	}
-	
 }
 ?>
 
@@ -27,7 +26,6 @@ User input
 </head>
 <body>
 
-
 <fieldset>
 <legend>Login</legend>
 <form method="POST" action="<?=$_SERVER['PHP_SELF']?>">
@@ -36,7 +34,7 @@ User
 <input type="text" name="user" maxlength=30 /><br>
 Password
 <br>
-<input type="password" name="password" />
+<input type="password" name="password"/>
 
 <br>
 <input type="submit" value="submit">
