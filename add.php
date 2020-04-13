@@ -1,3 +1,4 @@
+/*Program to add two numbers*/ 
 <html>
 <head><title>Addition php</title>
 <body>
