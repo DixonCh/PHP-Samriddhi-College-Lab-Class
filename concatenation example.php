@@ -1,4 +1,4 @@
-//Program to show the example of concatenation
+//Program to show the example of concatenation in PHP
 <?php
 $statement='everything I say'; 
 $question_1="Do you have to take $statement so literally?"\n<BR>;
