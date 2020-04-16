@@ -1,6 +1,6 @@
-
+//Program to print the multiplication table
 <?php
-//multiplication table
+//Multiplication Table
 echo "<!DOCTYPE html>
 <head>
 <title>
