@@ -1,10 +1,10 @@
-//Program to print the multiplication table
+//Program to print the Multiplication Table of 2
 <?php
 //Multiplication Table
 echo "<!DOCTYPE html>
 <head>
 <title>
-Multiplication table 
+Multiplication Table of 2 
 </title>
 </head>
 <body>";
