@@ -1,9 +1,6 @@
 <?php
 $statement='everything I say'; 
 //$question_1="Do you have to take $statement so literally?"\n<BR>;
-
-
-
 //$question_2="Do you have to take $statement so literally?"\n<BR>;
 echo $question_1;
 echo $question_2;
