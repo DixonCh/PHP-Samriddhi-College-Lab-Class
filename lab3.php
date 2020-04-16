@@ -1,5 +1,4 @@
 <?php
-
 echo "<!DOCTYPE html>";
 echo "<html>";
 echo "<head>";
@@ -11,5 +10,4 @@ echo "<h1> MY heading </h1>";
 echo "<p> ..............................</p>";
 echo "</body>";
 echo "</html>";
-
 ?>
