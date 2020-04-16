@@ -7,7 +7,7 @@ echo "This is my title";
 echo "</head>";
 echo "<body>";
 echo "<h1> MY heading </h1>";
-echo "<p> ..............................</p>";
+echo "<p>This is paragraph.</p>";
 echo "</body>";
 echo "</html>";
 ?>
